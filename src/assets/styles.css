@@ -1,3 +1,41 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+.herramientas-img {
+    width: 50%; /* Ajusta el ancho al 50% del contenedor */
+    height: auto; /* Mantén la proporción de la imagen */
+    margin-top: 4%; /* Similar a `mt-4` pero en porcentaje */
+  }
+  .herramientas-img1 {
+    width: 80%; /* Ajusta el ancho al 50% del contenedor */
+    height: auto; /* Mantén la proporción de la imagen */
+    margin-top: 4%; /* Similar a `mt-4` pero en porcentaje */
+  }
+  .slide1 {
+    background-color: #f0f8ff; /* Fondo de color (AliceBlue) */
+    background-image: url('@/assets/background.jpg'); /* Imagen de fondo */
+    background-size: cover; /* Ajusta la imagen para cubrir todo el contenedor */
+    background-position: center; /* Centra la imagen */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    width: 100vw; /* Ocupa el 100% del ancho visible */
+    height: 100vh; /* Ocupa el 100% del alto visible */
+    display: flex; /* Flexbox para alinear el contenido si es necesario */
+    align-items: center; /* Centra verticalmente el contenido */
+    justify-content: center; /* Centra horizontalmente el contenido */
+    
+}
+.mt-4{
+    font-size: x-large;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.mt-6{
+    font-size: x-large;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.fendermed-img {
+    width: 30%; /* Ajusta el ancho al 50% del contenedor */
+    height: auto; /* Mantén la proporción de la imagen */
+    margin-top: 4%; /* Similar a `mt-4` pero en porcentaje */
+  }

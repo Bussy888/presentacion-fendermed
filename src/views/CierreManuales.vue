@@ -7,8 +7,13 @@
         Estos documentos garantizan un correcto uso y soporte del sistema.
       </p>
       <div class="mt-6">
-        <a href="manuales.pdf" download class="btn">Descargar Manuales</a>
+        <a href="manuale_usuario.pdf" download class="btn">Descargar Manual De Usuario</a>
       </div>
+      <div class="mt-6">
+        <p></p>
+        <a href="manual_programador.pdf" download class="btn">Descargar Manual Del Programador</a>
+      </div>
+      <p></p>
       <router-link to="/cierre-carta" class="btn mt-6 block">Siguiente</router-link>
     </div>
   </template>
