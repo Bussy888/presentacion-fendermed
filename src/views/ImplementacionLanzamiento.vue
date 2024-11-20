@@ -4,7 +4,7 @@
       <h2 class="text-lg">4.2 Selección del Servidor, Configuración y Lanzamiento</h2>
       <p class="mt-4">
         Se recomienda Amazon Web Services (AWS) para el hosting de la plataforma E-Commerce de FENDERMED debido a su escalabilidad, alta disponibilidad (99.9%) y seguridad con certificados SSL.
-         AWS ofrece servicios como Elastic Beanstalk para el despliegue, EC2 para servidores, RDS para bases de datos y S3 para almacenamiento seguro. Si se usa el nivel gratuito o recursos limitados, el costo mensual sería de $1 a $3 USD, lo que equivale a $12 a $36 USD anuales.
+         AWS ofrece servicios como Elastic Beanstalk para el despliegue, EC2 para servidores, RDS para bases de datos y S3 para almacenamiento seguro. Si se usa el nivel gratuito o recursos limitados, el costo mensual sería de $5 a $15 USD, lo que equivale a $60 a $180 USD anuales.
       </p>
       <p class="mt-4">
         Alternativamente, opciones como Hostinger o Bluehost ofrecen hosting a $100 a $150 USD anuales, con características como almacenamiento SSD y soporte 24/7. 

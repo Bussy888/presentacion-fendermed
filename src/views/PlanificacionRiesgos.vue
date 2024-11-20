@@ -3,7 +3,7 @@
       <h1 class="text-xl font-bold">Fase de Planificación</h1>
       <h2 class="text-lg">2.3 Gestión de Riesgos</h2>
       <p class="mt-4">
-        1. Atrasos en el Desarrollo - Mitigación: Gestión de cambios y resolución técnica.
+        1. Atrasos en el Desarrollo - Mitigación: Control de cambios y resolución técnica.
       </p>
       <p class="mt-4">
         2. Fallas en la Seguridad - Mitigación: Protocolos de seguridad y auditorías.
