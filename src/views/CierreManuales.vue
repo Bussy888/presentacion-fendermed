@@ -1,5 +1,4 @@
 
-
 <template>
   <div class="slide">
     <h1 class="text-xl font-bold">Fase de Cierre</h1>

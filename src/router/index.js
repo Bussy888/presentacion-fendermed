@@ -1,6 +1,4 @@
 import { createRouter, createWebHistory } from 'vue-router';
-
-// Importación de las vistas
 import InicioFase from '../views/InicioFase.vue';
 import InicioTdrs from '../views/InicioTdrs.vue';
 
@@ -18,7 +16,6 @@ import ImplementacionLanzamiento from '../views/ImplementacionLanzamiento.vue';
 import CierreManuales from '../views/CierreManuales.vue';
 import CierreCarta from '../views/CierreCarta.vue';
 
-// Configuración de las rutas
 const routes = [
   // Fase de Inicio
   { path: '/', name: 'InicioFase', component: InicioFase },
