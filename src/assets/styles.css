@@ -39,3 +39,8 @@
     height: auto; /* Mantén la proporción de la imagen */
     margin-top: 4%; /* Similar a `mt-4` pero en porcentaje */
   }
+  .pantallas-img{
+    width: 80%; /* Ajusta el ancho al 50% del contenedor */
+    height: auto; /* Mantén la proporción de la imagen */
+
+  }

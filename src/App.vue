@@ -1,7 +1,7 @@
 <template>
   <!--  -->
-  <nav>
-    <router-link to="/">Home</router-link> 
+  <nav class="bg-blue-100 p-6 shadow-md rounded-lg">
+  <router-link to="/" class="text-xl font-semibold text-gray-800 hover:text-teal-500">Home</router-link> 
   </nav>
   <div class="slide1">
   <router-view/>
